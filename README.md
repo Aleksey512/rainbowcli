@@ -1,5 +1,7 @@
 # RainbowCLI
 
+![Превью](./preview.png)
+
 RainbowCLI is a simple command-line utility that applies a rainbow gradient to text input from a pipe. It reads input from stdin and prints it to stdout with colorful formatting using ANSI escape codes.
 
 ## Features
